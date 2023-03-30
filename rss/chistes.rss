@@ -10,22 +10,22 @@
     <item>
       <title>Chiste 1</title>
       <description>Hay tres tipos de personas en el mundo: los que saben contar y los que no.</description>
-      <link>https://sanchezreyesdaniel.github.io/unasrisaconDani/index.html</link>
-      <enclosure url="https://sanchezreyesdaniel.github.io/unasrisaconDani/index.html" length="13.421.504" type="audio/mp3"/>
+      <link>https://sanchezreyesdaniel.github.io/unasrisaconDani/audio/easy.mp3</link>
+      <enclosure url="https://sanchezreyesdaniel.github.io/unasrisaconDani/audio/easy.mp3" length="5.311.425" type="audio/mp3"/>
     </item>
 
     <item>
       <title>Chiste 2</title>
       <description>El otro día vendí mi aspiradora. Lo único que hacía era acumular polvo.</description>
-      <link>https://sanchezreyesdaniel.github.io/unasrisaconDani/index.html</link>
-      <enclosure url="https://sanchezreyesdaniel.github.io/unasrisaconDani/index.html" length="13.421.504" type="audio/mp3"/>
+      <link>https://sanchezreyesdaniel.github.io/unasrisaconDani/audio/risk.mp3</link>
+      <enclosure url="https://sanchezreyesdaniel.github.io/unasrisaconDani/audio/risk.mp3" length="2.321.345" type="audio/mp3"/>
     </item>
 
     <item>
       <title>Chiste 3</title>
       <description>¿Qué le dice un jardinero a otro? Nos vemos cuando podamos.</description>
-      <link>https://sanchezreyesdaniel.github.io/unasrisaconDani/index.html</link>
-      <enclosure url="Dhttps://sanchezreyesdaniel.github.io/unasrisaconDani/index.html" length="2.321.345" type="audio/mp3"/>
+      <link>https://sanchezreyesdaniel.github.io/unasrisaconDani/audio/awaken.mp3</link>
+      <enclosure url="https://sanchezreyesdaniel.github.io/unasrisaconDani/audio/awaken.mp3" length="5.788.734" type="audio/mp3"/>
     </item>
   </channel>
 </rss>
