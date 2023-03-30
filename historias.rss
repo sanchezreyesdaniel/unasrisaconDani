@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Historias recientes</title>
+    <description>3 noticias</description>
+    <link>https://sanchezreyesdaniel.github.io/unasrisaconDani/index.html</link>
+    <language>es-ES</language>
+    
+
+    <item>
+      <title>Moscú acusa a Occidente</title>
+      <description>Rusia acusa a Occidente de implicarse "de forma directa" en la guerra con el envío de tanques a Ucrania</description>
+      <link>https://sanchezreyesdaniel.github.io/unasrisaconDani/paginas/index.html</link>
+    </item>
+
+    <item>
+      <title>Chilena de Cristiano en debutn</title>
+      <description>El intento de chilena de Cristiano en su debut con el Al Nassr</description>
+      <link>https://sanchezreyesdaniel.github.io/unasrisaconDani/paginas/index2.html</link>
+    </item>
+
+    <item>
+      <title>Dani Alves contrata al abogado de Messi</title>
+      <description>Dani Alves contrata al abogado de Messi(Cristobal)</description>
+      <link>https://sanchezreyesdaniel.github.io/unasrisaconDani/paginas/index3.html</link>
+    </item>
+  </channel>
+</rss>
